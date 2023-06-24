@@ -2,6 +2,7 @@
 ### Article: Multimodal connectivity-based individualized parcellation and analysis for humans and rhesus monkeys
 
 MCIP simultaneously optimizes a single subject’s within-region homogeneity with the fusion of functional and anatomical connectivity, spatial continuity, and the similarity to a reference atlas.
+
 <img width="394" alt="image" src="https://github.com/YueCui-Labs/MCIP/assets/41955813/89a14cc1-cd61-4e45-921e-f61aeaad0fce">
 
 1. Download and extract necessary libraries to `./`:
