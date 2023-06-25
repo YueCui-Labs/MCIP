@@ -1,12 +1,12 @@
 #! /bin/bash
 #SBATCH -N 1
 #SBATCH -p cpu
-#SBATCH -J mmi_parc
+#SBATCH -J mcip_parc
 #SBATCH --mem=4G
 set -ux
 
-WD=$1 #HCP1200 or HCP_retest
-shift
+WD=HCP1200 #or HCP_retest
+
 sub_list=$1
 
 label_w=0.04
