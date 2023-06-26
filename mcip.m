@@ -1,5 +1,4 @@
 function [indiv_atlas, lambdas] = mcip(function_ts,ana_conn,topo, label_weight, smooth_weight, ref_atlas, neighbor_mat)
-% MMI: multi-modality atlas individualization with adapted weighting
 % Li, Chengyi, 2022.1.18
 
 % ----------inputs-----------
