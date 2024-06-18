@@ -1,6 +1,6 @@
 # MCIP: Multimodal Connectivity-based Individualized Parcellation
 This is the code for paper: Multimodal connectivity-based individualized parcellation and analysis for humans and rhesus monkeys
-Now published on IEEE Transcations of Medical Imaging: https://ieeexplore.ieee.org/document/10508267
+Now published on IEEE Transcations on Medical Imaging: https://ieeexplore.ieee.org/document/10508267
 
 MCIP simultaneously optimizes a single subject’s within-region homogeneity with the fusion of functional and anatomical connectivity, spatial continuity, and the similarity to a reference atlas.
 
