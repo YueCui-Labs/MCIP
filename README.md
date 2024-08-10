@@ -26,14 +26,8 @@ If you do not use Slurm, please change `sub_num=...` to be a for loop.
 ### DATA RELEASE
 MCIP-derived individualized parcellations based on Glasser atlas and Brannetome atlas for HCP subjects is available on https://drive.google.com/file/d/1H0mV6Z4icdO9QSda7lPx0TgCO_1c_Dm8/view?usp=drive_link
 
-### How to cite
-@ARTICLE{10508267,
-  author={Cui, Yue and Li, Chengyi and Lu, Yuheng and Ma, Liang and Cheng, Luqi and Cao, Long and Yu, Shan and Jiang, Tianzi},
-  journal={IEEE Transactions on Medical Imaging}, 
-  title={Multimodal Connectivity-based Individual Parcellation and Analysis for Humans and Rhesus Monkeys}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Pipelines;Surface topography;Animals;Brain modeling;Task analysis;Surface reconstruction;Reliability;Brain atlas;diffusion tractography;individual parcellation;multimodal fusion;resting-state functional connectivity;rhesus monkey},
-  doi={10.1109/TMI.2024.3392946}}
+### :books: Citation
+Please cite the [following paper](https://doi.org/10.1109/TMI.2024.3392946) when using MCIP:
+
+Cui Yue, Li Chengyi, Lu Yuheng, et al. Multimodal Connectivity-based Individual Parcellation and Analysis for Humans and Rhesus Monkeys[J]. IEEE Transactions on Medical Imaging, 2024.
+
